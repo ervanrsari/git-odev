@@ -1,1 +1,2 @@
 Proje 1:Web sitesi tasarımı ve geliştirilmesi.
+Proje 1'e detaylar eklendi: HTML, CSS ve JavaScript kullanıldı.
