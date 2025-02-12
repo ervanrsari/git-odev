@@ -1,1 +1,2 @@
 Proje 3: Veri analizi ve raporlama sistemi entegrasyonu.
+Yeni özellik: Kullanıcı geri bildirim sistemi entegrasyonu.
