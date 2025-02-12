@@ -1,1 +1,2 @@
 Rapor 2: Ekip Performans Analizi.
+Rapor 2'ye ekip üyelerinin performans değerlendirmeleri eklendi.
